@@ -27,5 +27,6 @@ I built this project to practice:
 - Password is not encrypted
 - Data is not saved
 - Console only (no GUI)
+- Does not validate unrealistic birth years.
 
 This project is made for learning purposes.
